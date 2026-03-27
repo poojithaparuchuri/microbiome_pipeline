@@ -1,0 +1,15 @@
+#!/bin/bash
+SAMPLES=(
+  SRR5514942 SRR5514944 SRR5514945 SRR5514946 SRR5514947
+  SRR5514948 SRR5514949 SRR5514950 SRR5514951 SRR5514943
+  SRR5514957 SRR5514955 SRR5514958 SRR5514961 SRR5514959
+  SRR5514954 SRR5514956 SRR5514960 SRR5514952 SRR5514953
+)
+
+for sample in "${SAMPLES[@]}"; do
+  echo "Downloading $sample..."
+  fastq-dump --split-files --gzip "$sample"
+  echo "Done: $sample"
+done
+
+echo "All downloads complete!"

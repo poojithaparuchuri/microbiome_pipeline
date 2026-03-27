@@ -1,0 +1,9 @@
+data/raw/
+data/exported/
+data/processed/*.qza
+data/processed/diversity/
+data/classifier/
+*.fastq.gz
+*.biom
+__pycache__/
+*.pyc
