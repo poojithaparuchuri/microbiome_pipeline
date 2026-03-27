@@ -8,7 +8,7 @@ This pipeline analyses gut microbiome data from infants at familial risk of Celi
 
 ## Dataset
 
-- **Study:** PRJEB23313 — Gut microbiota trajectory in early life may predict development of celiac disease
+- **Study:** PRJEB23313, Gut microbiota trajectory in early life may predict development of celiac disease
 - **Samples:** 20 (10 Celiac cases, 10 healthy controls)
 - **Type:** 16S rRNA V1-V2 amplicon sequencing (Illumina MiSeq, 2x250bp)
 - **Tissue:** Stool, collected at 6 months of age
