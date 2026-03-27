@@ -1,4 +1,4 @@
-# Microbiome Pipeline — Celiac Disease Analysis
+# Microbiome Pipeline - Celiac Disease Analysis
 
 A 16S rRNA amplicon sequencing analysis pipeline for microbiome biomarker discovery in Celiac disease.
 
