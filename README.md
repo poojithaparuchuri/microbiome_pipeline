@@ -1,4 +1,4 @@
-# Microbiome Pipeline — Celiac Disease Biomarker Discovery
+# Microbiome Base Pipeline - Celiac Disease Biomarker Discovery
 
 A cloud-based 16S rRNA amplicon sequencing analysis pipeline for microbiome 
 biomarker discovery in Celiac disease, built on Google Cloud Platform.
